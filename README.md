@@ -9,3 +9,5 @@ VGG16 is object detection and classification algorithm which is able to classify
 <img src = "https://github.com/AayushSaxena08/Image_Classification_using_Transfer_Learning/blob/main/Cats_Dogs_CNN.gif?raw=true" align = "center" alt="Architecture of VGG16 model">
 
 Dataset: https://www.kaggle.com/c/dogs-vs-cats/data 
+
+You can find the complete Jupyter notebook: https://www.kaggle.com/aayushsaxena0811/dog-vs-cat-cnn
